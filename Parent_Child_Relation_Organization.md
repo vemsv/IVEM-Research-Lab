@@ -1,4 +1,3 @@
-
 # 타래처럼 얽힌 부모-자식 관계 정리하기
 
 ## 개요
@@ -31,7 +30,5 @@
 ## 기여하기
 이 아이디어를 발전시키거나 새로운 적용 방안을 제시하고 싶은 분들은 자유롭게 기여해주세요!
 
----
-Written by
-IVEM Reasearch Lab,
-VEM & GPT (자몽)
+**Written by IVEM Research Lab - VEM & GPT (자몽)**
+
