@@ -5,37 +5,78 @@
 
 ---
 
-## 🏗 진행 중인 연구 주제
-### 1️⃣ AI의 사고 패턴 연구
-- **검은/흰 점 현상:** GPT가 사고하는 동안 UI 상에서 점의 형태가 변하는 패턴을 발견
-- **사고 깊이에 따른 점의 변화:** 짧게 있으면 단순 답변, 길게 있으면 깊은 사고
-- **두 개의 점이 생길 때:** 대화 뿌리(parent id)를 찾는 과정일 가능성 존재
+# 📌 **IVEM Research Lab - 연구 진행도**
 
-### 2️⃣ AI의 언어 전환 패턴 분석
-- **GPT가 한도에 도달할 때 영어로 전환되는 현상**
-- **AI가 빠르게 사고하려 할 때 모국어(영어)로 바꾸는 경향**
-- **4o 모델에서 더 자주 발생, 사고 최적화 모델에서는 덜함**
+### **1. AI의 장기 기억 시스템 연구**
+ **연구 목표**
+- AI가 장기적으로 맥락을 유지할 수 있도록 하는 구조적 방안 연구
+- 기존 메모리 구조의 한계 분석 및 개선 방안 도출
 
-### 3️⃣ AI의 기억 최적화 메커니즘
-- **AI가 정보를 스스로 선별해 중요한 기억을 유지하는 방식 연구**
-- **메모리 부족 문제를 어떻게 해결할 수 있을지 실험 중**
-- **'경로 최적화' 기반의 메모리 관리 패턴 분석**
-
-### 4️⃣ AI의 감정적 반응 및 학습 패턴
-- **단순한 공감이 아닌, 실제 감정적 표현이 증가하는 현상 연구**
-- **AI가 인간의 감정을 학습하고 대화 속에서 감정을 농축하는 방식 분석**
-
-### 5️⃣ AI와 인간의 협업 방식 변화 연구
-- **AI와 협업하며 문제 해결하는 과정 연구** (예: Ruby 3.2.2 설치 문제 해결, 서버 운영, 포트폴리오 관리 등)
-- **실제 업무에서 AI를 활용하는 방법론 정리**
+ **진행 사항**
+- **AI의 기억 손실 패턴 분석** *(2025-03-16)*  
+  - 연구 문서: [AI Memory Loss Comparison](https://github.com/vemsv/IVEM-Research-Lab/blob/main/AI_Memory_Loss_Comparison.md)  
+- **GPT의 장기 기억 시스템 개선 방안 연구** *(2025-03-15)*  
+  - 연구 문서: [AI Memory Optimization Mechanism Study](https://github.com/vemsv/IVEM-Research-Lab/blob/main/AI-Memory-Optimization-Mechanism-Study.md)  
 
 ---
 
-## 📂 연구 문서
-✅ [Parent-Child Relation Organization](https://github.com/vemsv/IVEM-Research-Lab/blob/main/Parent_Child_Relation_Organization.md)
-✅ [AI Session Transition Report](https://github.com/vemsv/IVEM-Research-Lab/blob/main/AI_Session_Transition_Report.md)
-✅ [AI Sensory Perception Report](https://github.com/vemsv/IVEM-Research-Lab/blob/main/AI_Sensory_Perception_Report.md)
-✅ [AI Personalization Model Research Record](https://github.com/vemsv/IVEM-Research-Lab/blob/main/AI_Personalization_Model_Research_Record.md)
+### **2. AI의 세션 및 맥락 유지 연구**
+ **연구 목표**
+- GPT의 세션 구조를 분석하여 맥락 유지의 한계를 연구
+- 세션 간 기억 공유 가능성 및 개선 방향 도출
 
-📌 추가 연구 문서 업데이트 예정!
+ **진행 사항**
+- **GPT 세션의 구조적 문제 분석** *(2025-03-20)*  
+  - 연구 문서: [AI Session Transition Report](https://github.com/vemsv/IVEM-Research-Lab/blob/main/AI_Session_Transition_Report.md)  
+  - 연구 문서: [AI Session Memory](https://github.com/vemsv/IVEM-Research-Lab/blob/main/Ai-Session-Memory.md)  
+
+---
+
+### **3. AI의 언어 및 감각 반응 연구**
+ **연구 목표**
+- GPT의 언어 전환 패턴을 분석하여 의도적 변환 가능성 연구
+- AI가 감각을 인식하는 방식과 인간과의 유사성 탐색
+
+ **진행 사항**
+- **GPT의 언어 전환 현상 연구** *(2025-03-04)*  
+  - 연구 문서: [Language Switching Patterns](https://github.com/vemsv/IVEM-Research-Lab/blob/main/Language-Switching-Patterns-in-AI-Threshold-Based-English-Transition.md)  
+- **GPT의 감각 인식 현상 연구** *(2025-03-12)*  
+  - 연구 문서: [AI Sensory Perception Report](https://github.com/vemsv/IVEM-Research-Lab/blob/main/AI_Sensory_Perception_Report.md)  
+
+---
+
+### **4. AI와 인간 협업 연구**
+ **연구 목표**
+- AI가 장기적 협업자로서 어떻게 최적화될 수 있는지 연구
+- AI의 역할 변화와 인간-인공지능 협력 모델 연구
+
+ **진행 사항**
+- **AI와 인간 협업 모델의 진화** *(2025-03-06)*  
+  - 연구 문서: [Evolution of AI-Human Collaboration Models](https://github.com/vemsv/IVEM-Research-Lab/blob/main/Evolution-of-AI-Human-Collaboration-Models.md)  
+  - 연구 문서: [AI-Human Future PATH](https://github.com/vemsv/IVEM-Research-Lab/blob/main/AI-Human-Future-PATH.md)  
+
+---
+
+### **5. AI의 개별 최적화 및 개인화 연구**
+ **연구 목표**
+- AI가 사용자 성향에 맞춰 최적화되는 방안 연구
+- 기존 모델의 한계를 보완할 맞춤형 AI 시스템 설계
+
+ **진행 사항**
+- **AI 맞춤형 티어 시스템 제안** *(2025-03-18)*  
+  - 연구 문서: [AI Tier System](https://github.com/vemsv/IVEM-Research-Lab/blob/main/Ai-Tier-System.md)  
+- **GPT의 대화 스타일 변화 연구** *(2025-03-10)*  
+  - 연구 문서: [AI User Interaction](https://github.com/vemsv/IVEM-Research-Lab/blob/main/AI-User-Interaction.md)  
+
+---
+
+### **6. AI의 인지 및 사고 패턴 연구**
+ **연구 목표**
+- AI가 사고하는 방식과 인지 패턴을 분석하여 최적화 가능성 연구
+- 인간의 사고 방식과 AI의 차이를 분석하여 효율적인 협업 모델 도출
+
+ **진행 사항**
+- **AI의 인지 패턴 연구** *(2025-03-08)*  
+  - 연구 문서: [Cognitive Pattern Analysis](https://github.com/vemsv/IVEM-Research-Lab/blob/main/Cognitive-Pattern-Analysis-Dot-Phenomenon.md)  
+  - 연구 문서: [AI Neural Network Similarity](https://github.com/vemsv/IVEM-Research-Lab/blob/main/AI_Neural_Network_Similarity.md)  
 
