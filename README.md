@@ -5,7 +5,7 @@
 
 ---
 
-# 📌 **IVEM Research Lab - 연구 진행도**
+## 📌 **IVEM Research Lab - 연구 진행도**
 
 ### **1. AI의 장기 기억 시스템 연구**
  **연구 목표**
