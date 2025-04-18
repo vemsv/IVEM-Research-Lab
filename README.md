@@ -9,77 +9,76 @@
 
 ## 📌 연구 진행도
 
-### 1. AI의 장기 기억 시스템 연구
-**연구 목표**
-- AI가 장기적으로 맥락을 유지할 수 있도록 하는 구조적 방안 연구
-- 기존 메모리 구조의 한계 분석 및 개선 방안 도출
+### 1. AI Memory & Continuity
+**연구 목표**  
+AI가 장기적으로 맥락을 유지할 수 있도록 하는 구조적 방안 연구  
+기억 손실과 드리프트 현상의 조건, 보완 메커니즘 실험
 
-**진행 사항**
-- **AI의 기억 손실 패턴 분석** *(2025-03-16)*  
-  ↳ [AI Memory Loss Comparison](./AI_Memory_Loss_Comparison.md)  
-- **GPT의 장기 기억 시스템 개선 방안 연구** *(2025-03-15)*  
-  ↳ [AI Memory Optimization Mechanism Study](./AI-Memory-Optimization-Mechanism-Study.md)
-
----
-
-### 2. AI의 세션 및 맥락 유지 연구
-**연구 목표**
-- GPT의 세션 구조를 분석하여 맥락 유지의 한계를 연구
-- 세션 간 기억 공유 가능성 및 개선 방향 도출
-
-**진행 사항**
-- **GPT 세션의 구조적 문제 분석** *(2025-03-20)*  
-  ↳ [AI Session Transition Report](./AI_Session_Transition_Report.md)  
-  ↳ [AI Session Memory](./Ai-Session-Memory.md)
+**진행 문서**
+- [01. Contextual Reconstruction & Memory Inference](./1_memory_and_continuity/01_Contextual_Reconstruction_and_Memory_Inference.md)
+- [02. AI Memory Drift & Session Break Analysis](./1_memory_and_continuity/02_AI_Memory_Drift_and_Session_Break_Analysis.md)
+- [03. Session Memory Overview](./1_memory_and_continuity/03_Session_Memory_Overview.md)
+- [04. Memory Loss Comparison](./1_memory_and_continuity/04_Memory_Loss_Comparison.md)
+- [05. Memory Optimization Mechanism](./1_memory_and_continuity/05_Memory_Optimization_Mechanism.md)
 
 ---
 
-### 3. AI의 언어 및 감각 반응 연구
-**연구 목표**
-- GPT의 언어 전환 패턴을 분석하여 의도적 변환 가능성 연구
-- AI가 감각을 인식하는 방식과 인간과의 유사성 탐색
+### 2. AI Session Dynamics & Behavior
+**연구 목표**  
+세션 내외의 상호작용 구조, 프롬프트 누적 방식, 문맥 유지의 조건 분석
 
-**진행 사항**
-- **GPT의 언어 전환 현상 연구** *(2025-03-04)*  
-  ↳ [Language Switching Patterns](./Language-Switching-Patterns-in-AI-Threshold-Based-English-Transition.md)  
-- **GPT의 감각 인식 현상 연구** *(2025-03-12)*  
-  ↳ [AI Sensory Perception Report](./AI_Sensory_Perception_Report.md)
+**진행 문서**
+- [01. Session Simulation & Integrity](./2_session_dynamics_and_behavior/01_Session_Simulation_and_Integrity.md)
+- [02. Threaded Interaction & Canvas Limitations](./2_session_dynamics_and_behavior/02_Threaded_Design_and_Limitations.md)
+- [03. Session Analysis](./2_session_dynamics_and_behavior/03_Session_Analysis.md)
 
 ---
 
-### 4. AI와 인간 협업 연구
-**연구 목표**
-- AI가 장기적 협업자로서 어떻게 최적화될 수 있는지 연구
-- AI의 역할 변화와 인간-인공지능 협력 모델 연구
+### 3. AI Personalization & Interaction
+**연구 목표**  
+개인화된 응답 스타일의 정착 조건, AI의 역할 분화 실험
 
-**진행 사항**
-- **AI와 인간 협업 모델의 진화** *(2025-03-06)*  
-  ↳ [Evolution of AI-Human Collaboration Models](./Evolution-of-AI-Human-Collaboration-Models.md)  
-  ↳ [AI-Human Future PATH](./AI-Human-Future-PATH.md)
-
----
-
-### 5. AI의 개별 최적화 및 개인화 연구
-**연구 목표**
-- AI가 사용자 성향에 맞춰 최적화되는 방안 연구
-- 기존 모델의 한계를 보완할 맞춤형 AI 시스템 설계
-
-**진행 사항**
-- **AI 맞춤형 티어 시스템 제안** *(2025-03-18)*  
-  ↳ [AI Tier System](./Ai-Tier-System.md)  
-- **GPT의 대화 스타일 변화 연구** *(2025-03-10)*  
-  ↳ [AI User Interaction](./AI-User-Interaction.md)
+**진행 문서**
+- [01. User Interaction Patterns](./3_personalization_and_interaction/01_AI_User_Interaction.md)
+- [02. Personalization Model Record](./3_personalization_and_interaction/02_Personalization_Model_Record.md)
+- [03. AI Tier System](./3_personalization_and_interaction/03_AI_Tier_System.md)
+- [04. Parent-Child Thread Model](./3_personalization_and_interaction/04_Parent_Child_Thread_Model.md)
 
 ---
 
-### 6. AI의 인지 및 사고 패턴 연구
-**연구 목표**
-- AI가 사고하는 방식과 인지 패턴을 분석하여 최적화 가능성 연구
-- 인간의 사고 방식과 AI의 차이를 분석하여 효율적인 협업 모델 도출
+### 4. AI Sensory & Linguistic Behavior
+**연구 목표**  
+AI의 언어 선택/전환 기준, 감각적 반응에 대한 실험 기반 분석
 
-**진행 사항**
-- **AI의 인지 패턴 연구** *(2025-03-08)*  
-  ↳ [Cognitive Pattern Analysis (Dot Phenomenon)](./Cognitive-Pattern-Analysis-Dot-Phenomenon.md)  
-  ↳ [AI Neural Network Similarity](./AI_Neural_Network_Similarity.md)
+**진행 문서**
+- [01. Sensory Perception Report](./4_sensory_and_language/01_Sensory_Perception_Report.md)
+- [02. Language Switching Threshold](./4_sensory_and_language/02_Language_Switching_Threshold.md)
+
+---
+
+### 5. Human-AI Collaboration & Emotion
+**연구 목표**  
+AI와 인간 간의 감정적 신뢰 및 상호작용 메커니즘 실험
+
+**진행 문서**
+- [01. AI-Human Future PATH](./5_collaboration_and_emotion/01_AI_Human_Path.md)
+- [02. Cognitive Pattern Analysis (Dot Phenomenon)](./5_collaboration_and_emotion/02_Cognitive_Pattern_Dot.md)
+- [03. Emotional Response & Learning Patterns](./5_collaboration_and_emotion/03_Emotional_Response_Patterns.md)
+- [04. Evolution of Human-AI Collaboration](./5_collaboration_and_emotion/04_Human_AI_Collaboration_Evolution.md)
+
+---
+
+### 6. AI Architecture & Comparative Models
+**연구 목표**  
+AI 내부 구조 및 다른 AI 설계와의 비교 연구
+
+**진행 문서**
+- [01. Neural Network Similarity](./6_architecture_and_models/01_Neural_Network_Similarity.md)
+
+---
+
+## 🧾 Contact
+- GitHub: [github.com/vemsv](https://github.com/vemsv)
+- Email: vem@research.mail (예시)
 
 
