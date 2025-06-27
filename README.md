@@ -77,6 +77,16 @@ AI 내부 구조 및 다른 AI 설계와의 비교 연구
 
 ---
 
+### 7. Human Moderation & Loop Optimization
+**연구 목표**  
+AI 단독 루프에서 발생하는 오류 패턴을 식별하고, 인간 피드백이 해당 루프를 어떻게 보정·최적화하는지를 분석
+특히 GPT의 '정리 → 생성 → 정리' 방식에서 발생하는 정보 왜곡, 맥락 유실, 무한루프 현상 등을 실험하고 기록
+
+**진행 문서**
+- [01. Self-Loop Generation Breakdown](./7_loop_optimization/01_Self_Loop_Generation_Breakdown.md) 
+- [02. Human Moderation Effectiveness](./7_loop_optimization/02_Human_Moderation_Effectiveness.md)
+
+
 ## 🧾 Contact
 - GitHub: [github.com/vemsv](https://github.com/vemsv)
 - Email: vem@research.mail (예시)
